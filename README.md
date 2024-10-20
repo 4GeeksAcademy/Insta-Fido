@@ -1,2 +1,1 @@
-"# Insta-Fido" 
-"# Photo-feed" 
+
